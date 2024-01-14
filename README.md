@@ -27,7 +27,7 @@
 
 ## 数据库设计
 
-ER图：[E-R Diagram](resource/E-R Diagram.drawio)
+ER图：[E-R Diagram](./resource/E-R Diagram.drawio)
 
 数据库设计：[https://dbdiagram.io/d/M-League-65a34568ac844320aedc7e2b](https://dbdiagram.io/d/M-League-65a34568ac844320aedc7e2b)
 
